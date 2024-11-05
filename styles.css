@@ -1,0 +1,55 @@
+.table {
+    text-align: center;
+   margin: auto;
+}
+
+.cycling {
+    background-color: #96ba59;
+    color: #fff;
+    
+    text-align: center;
+}
+
+.pilates {
+    background-color: #0505c3;
+    color: #fff;
+    
+    text-align: center;
+}
+
+.aquagym {
+    background-color: #ef9b34;
+    color: #fff;
+    
+    text-align: center;
+}
+
+.zumba {
+    background-color: #aa32dd;
+    color: #fff;
+    
+    text-align: center;
+}
+
+.bodypump {
+    background-color: #8c8888;
+    color: #fff;
+    
+    text-align: center;
+}
+
+.boton {
+    text-decoration: none;
+    color: #fff;
+
+    text-align: center;
+}
+
+.descanso {
+    text-align: center;
+}
+
+.horas {
+    font-weight: bold;
+    text-align: center;
+}
